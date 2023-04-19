@@ -1,0 +1,7 @@
+pillow
+filetype
+numpy
+pandas
+matplotlib
+pytest
+scikit-learn
