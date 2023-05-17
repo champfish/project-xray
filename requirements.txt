@@ -5,3 +5,5 @@ pandas
 matplotlib
 pytest
 scikit-learn
+torch
+torchvision
