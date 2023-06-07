@@ -239,8 +239,8 @@ def verify_scaled_down_images(source):
     return True
 
 #PNEUMONIA
-crop_images("val/PNEUMONIA", "cleaned_val/PNEUMONIA")
-res = verify_cropped_images("cleaned_val/PNEUMONIA")
-if res:
-    scale_down_images("cleaned_val/PNEUMONIA", "cleaned_val/PNEUMONIA")
-    verify_scaled_down_images("cleaned_val/PNEUMONIA")
+# crop_images("val/PNEUMONIA", "cleaned_val/PNEUMONIA")
+# res = verify_cropped_images("cleaned_val/PNEUMONIA")
+# if res:
+#     scale_down_images("cleaned_val/PNEUMONIA", "cleaned_val/PNEUMONIA")
+#     verify_scaled_down_images("cleaned_val/PNEUMONIA")
